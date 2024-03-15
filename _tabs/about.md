@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 0
 ---
 
-# About me
-
 Hey! I am Bram Reuling. I am 23 years old and currently working as a junior programmer at Bohemia Interactive on Arma Reforger.
 
 As a Junior Programmer at Bohemia Interactive, I work on developing and implementing network and gameplay features for Arma Reforger. I joined the company in February 2023, to complete my BS degree in Creative Media & Game Technologies at Saxion University of Applied Sciences. For my thesis, I created a networked feature for Arma Reforger, using C++. After I graduated with a 9 out of 10 points, I started to work there full time as a Junior Programmer.
@@ -34,5 +32,5 @@ I have also gained valuable experience as a Student Assistant at Saxion Universi
 | ----------- | ----------- |
 | C++ | Unreal Engine |
 | X86 Assembly | Visual Studio |
-| C# | Visual Studio |
+| C# | Visual Studio Code |
 | Python |  |
