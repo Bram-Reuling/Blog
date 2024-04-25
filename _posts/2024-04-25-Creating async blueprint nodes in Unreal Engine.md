@@ -1,8 +1,8 @@
 ---
 title: Creating async blueprint nodes in Unreal Engine
 date: 2024-04-25 15:45:00 +0200
-categories: [University Research]
-tags: [Blueprint System, C++, Custom Blueprint Nodes, Unreal Engine, Asynchronous]
+categories: []
+tags: []
 img_path: /assets/img/post-images/async-nodes/
 image:
     path: preview.png
