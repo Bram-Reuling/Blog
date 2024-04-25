@@ -14,7 +14,7 @@ timezone: Europe/Prague
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bram Reuling | Blog # the main title
+title: Bram Reuling # the main title
 
 tagline: Junior Programmer @ Bohemia Interactive # it will display as the sub-title
 
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Bram Reuling
-  email: example@domain.com # change to your email address
+  email: info@bramreuling.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/BramReuling # change to your twitter homepage
@@ -76,7 +76,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1687551213200367617/ihoE-P6X_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1776313516477030401/Y3nKpShF_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
